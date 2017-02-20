@@ -1,0 +1,12 @@
+[submodule "c_modules/cstd"]
+	path = c_modules/cstd
+	url = git@github.com:opencosmos/cstd
+[submodule "c_modules/debug"]
+	path = c_modules/debug
+	url = git@github.com:opencosmos/debug
+[submodule "c_modules/fixedstr"]
+	path = c_modules/fixedstr
+	url = git@github.com:opencosmos/fixedstr
+[submodule "c_modules/cstruct"]
+	path = c_modules/cstruct
+	url = git@github.com:opencosmos/cstruct
